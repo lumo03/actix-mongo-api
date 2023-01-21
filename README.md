@@ -14,7 +14,7 @@ This project is a RESTful API built using Rust and the Actix-web framework, whic
 1. Clone the repository and navigate to the project directory
 2. Create an .env file in the root of the project with the following key: `MONGOURI=<your_mongodb_uri>`
 3. Run `cargo run` to start the server
-4. The API will be accessible at `http://localhost:8000`
+4. The API will be accessible at `http://localhost:8080`
 
 
 ## API Endpoints
